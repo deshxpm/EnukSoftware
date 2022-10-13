@@ -1,11 +1,11 @@
 # EnukSoftware
 Django Rest API
 
-Created Django Rest api which allows only authenticated users to upload the image
+1. Created Django Rest api which allows only authenticated users to upload the image
 of maximum size of 500 KB.
-use of JWT for authentication user by JSON WEB TOKEN
-use SQLite3 database with an UserProfile table customize default django User table for store user data & ImageWarehouse table for store images.
-created Api for Registration new User.
+2. Use of JWT for authentication user by JSON WEB TOKEN
+3. use SQLite3 database with an UserProfile table customize default django User table for store user data & ImageWarehouse table for store images.
+4. created Api for Registration new User.
 
 ##### Requirements OR Dependencies #####
 asgiref==3.5.2
